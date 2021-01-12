@@ -1,0 +1,13 @@
+.logout-btn-container, .logout-btn-container button,
+.login-btn-container, .login-btn-container button
+{
+    width: 200px;
+}
+
+.profile-div-container{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
